@@ -1,0 +1,22 @@
+# Language model
+dspy-ai
+openai
+
+# Visualization
+networkx
+matplotlib
+pydot
+
+# Unit testing
+absl-py
+pytest
+
+# Evaluation
+transformers
+datasets
+
+# Retrieval
+sentence_transformers
+
+# misc
+asyncio

@@ -1,0 +1,6 @@
+open_ai_key.txt
+scratchpad.txt
+run_logs/
+outputs/
+__pycache__/
+.env/
