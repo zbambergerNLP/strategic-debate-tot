@@ -77,15 +77,15 @@ pip install -r requirements.txt
 ### Optional Dependencies for Visualization
 For visualization, you must install graphviz using the following command:
 
-    ```bash
-    sudo apt-get install graphviz
-    ```
+```bash
+sudo apt-get install graphviz
+```
 
 Alternatively, on Mac, you can use the following command:
 
-    ```bash
-    brew install graphviz
-    ```
+```bash
+brew install graphviz
+```
 
 ## Usage
 
