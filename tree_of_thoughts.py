@@ -19,27 +19,6 @@ from utils.search_parameters import TreeOfThoughtsParameters
 # To-Dos for Tree-Of-Thoughts #
 ###############################
 
-# Generic to-dos for the 'tree_of_thoughts.py' file:
-
-# TODO[P2](Zach): Move the code from the tree data structure files (i.e., files in `abstractions/tree/`) into
-#  the main files within the root directory (e.g., move contents of `abstractions/tree/devils_advocate_tree.py` 
-#   into 'devils_advocate_tree_of_thoughts.py').
-# TODO[P2](Zach): Move 'visualize_tree' into the 'tree' module. Allow subclasses of 'Tree' to implement their own visualization.
-#   or inherit a basic version from 'Tree'.
-# TODO[P3](Zach): Creater wrappers to make logging intermediate reasoning (from generators and evaluators) more legible.
-# TODO[P3](Zach): Create a function in 'tree' to format the reasoning for a node's score. 
-#   This should differ based on the reasoning type in which the score is assigned.
-# TODO[P3](Zach): Use DSPy's MultiChainComparison to determine judge scores based on the scores of an ensemble of judges.
-
-# Specific to-dos for the 'devils_advocate_tree_of_thoughts.py' file:
-
-# TODO[P1](Zach): Add a flag to allow the user to choose whether or not to use self reflection to generate the final response
-#   (as opposed to returning the best child of the root node after minimax).
-# TODO[P1](Zach): Self-Reflection should rely on the reasoning of judges to generate responses.
-# TODO[P1](Zach): Modify the UCT formula so that when it is the adversary's turn, we choose the child node with the minimum
-#   score (since the adversary is trying to minimize the score that we are trying to maximize).
-
-
 # Create a metaclass that combines the ABCMeta and the type of the dspy.Module class.
 # This allows us to naturally extend the dspy.Module class while enforcing subclasses to implement specific methods.
 class CombinedMeta(abc.ABCMeta, type(dspy.Module)):
