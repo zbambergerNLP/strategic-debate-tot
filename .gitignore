@@ -4,3 +4,4 @@ run_logs/
 outputs/
 __pycache__/
 .env/
+*.log
