@@ -225,13 +225,16 @@ This library implements the Tree of Thoughts framework as presented in Yao et al
 
 The Co-Creators of this library:
 
-- Zachary Bamberger (Lead)
+- [Zachary Bamberger](https://zachary.cswp.cs.technion.ac.il/) (Technion -- Israel Institute of Technology)
+- [Till Saenger](https://whitmancollege.princeton.edu/people/till-saenger) (Princton University)
+- Gilad Morad
 - Ze'ev Sheleg
 - Yosef Ben Yehuda
 
 The Supervisors of this project:
-- Dr. Amir Feder (Google, Columbia University)
-- Dr. Ofra Amir (Technion -- Israel Institute of Technology)
+- [Dr. Amir Feder](https://www.amirfeder.com/) (Hebrew University & Google)
+- [Dr. Ofra Amir](https://dds.technion.ac.il/people/academic-staff/ofra-amir/) (Technion -- Israel Institute of Technology)
+- [Brandon Stewart](https://bstewart.scholar.princeton.edu/) (Princeton University) 
 
 If you have any questions or concerns, please feel free to reach out to Zachary Bamberger at `zacharybamberger1@gmail.com`
 
