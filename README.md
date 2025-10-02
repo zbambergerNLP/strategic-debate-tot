@@ -242,7 +242,7 @@ If you wish to build on this work, please reference this repository:
 
 ```bibtex
 @software{strategic-debate,
-  author = {Zachary Bamberger, Ze'ev Sheleg, Yosef Ben Yehuda, Amir Feder, Ofra Amir},
+  author = {Zachary Bamberger, Till Saenger, Gilad Morad, Ze'ev Sheleg, Yosef Ben Yehuda, Ofra Amir, Brandon Stewart, Amir Feder},
   title = {Strategic Debate: Tree of Thoughts},
   year = {2024},
   publisher = {GitHub},
