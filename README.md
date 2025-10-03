@@ -226,7 +226,7 @@ This library implements the Tree of Thoughts framework as presented in Yao et al
 The Co-Creators of this library:
 
 - [Zachary Bamberger](https://zachary.cswp.cs.technion.ac.il/) (Technion -- Israel Institute of Technology)
-- [Till Saenger](https://whitmancollege.princeton.edu/people/till-saenger) (Princton University)
+- [Till Saenger](https://tillrs.github.io/) (Princton University)
 - Gilad Morad
 - Ze'ev Sheleg
 - Yosef Ben Yehuda
